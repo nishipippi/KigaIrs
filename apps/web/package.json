@@ -9,13 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@google/genai": "^0.13.0",
+    "@google/genai": "^1.32.0",
     "@heroicons/react": "^2.2.0",
     "fast-xml-parser": "^5.2.3",
     "katex": "^0.16.22",
-    "next": "15.3.2",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "next": "16.0.8",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -24,7 +24,7 @@
     "@types/react-dom": "^19",
     "autoprefixer": "^10.x.x",
     "eslint": "^9",
-    "eslint-config-next": "15.3.2",
+    "eslint-config-next": "16.0.8",
     "postcss": "^8.x.x",
     "typescript": "^5"
   }
